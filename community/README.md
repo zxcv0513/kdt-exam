@@ -32,6 +32,9 @@ npm start
 | `npm run build` | 타입 검사 후 화면 빌드 |
 | `npm start` | API 서버 실행 (빌드된 화면이 있으면 함께 제공) |
 | `npm run typecheck` | 타입 검사 |
+| `npm run test:api` | 임시 서버로 API 시험 |
+| `npm run test:ui` | 빌드 후 설치된 Chrome으로 화면 시험 |
+| `npm test` | API와 화면 시험 모두 실행 |
 
 ## 환경변수
 
